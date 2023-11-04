@@ -1,6 +1,6 @@
 # brick-breaker
 As part of my algorithm course at CESI Brest, I created a brick breaker game inspired by Hearthstone and World of warcraft. 
-I created the game from scratch but the functions using SDL were provided (keyPressed, joyButtonpressed for instance).
+I did it from scratch but the functions using SDL were provided (keyPressed, joyButtonpressed for instance).
 Please find below 2 videos that introduce my game (both if you win or lose).
 
 
